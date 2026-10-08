@@ -56,23 +56,6 @@ The project demonstrates how a web interface communicates with a Java backend th
 - Connected frontend actions to backend APIs and tested the integration.
 - Used H2 Database for development and testing of data operations.
 
-## Running the Project Locally
-
-This project uses Maven and Spring Boot. Before running it, check the required **Java version** in `pom.xml` and the application settings in `src/main/resources`.
-
-1. Clone or download this repository.
-2. Open the project in your preferred Java IDE.
-3. Check the database and application configuration.
-4. If the project has the Spring Boot Maven plugin configured, start it with:
-
-   ```bash
-   mvn spring-boot:run
-   ```
-
-5. Open the local application URL shown by your project configuration or terminal output.
-
-> **Note:** The exact Java version, application URL, and database settings should be verified against the original project files before these instructions are treated as final.
-
 ## What I Learned
 
 Through this project, I strengthened my understanding of full-stack application development, particularly **Java backend development, REST API integration, CRUD operations, and building responsive interfaces**. It also gave me practical experience translating requirements into working booking and admin workflows.
