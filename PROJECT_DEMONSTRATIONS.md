@@ -31,5 +31,3 @@ A demonstration of the admin interface, including viewing booking records and ma
 🎬 **[Watch Admin Management Demo](https://drive.google.com/file/d/1gT7LKFOHGyLfbCW_qIzrSPUroatAlDvm/view?usp=sharing)**
 
 ---
-
-**Note:** Videos are hosted on Google Drive. Viewer access depends on the sharing permissions set for each file.
