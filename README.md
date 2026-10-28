@@ -50,8 +50,8 @@ The application uses Spring Boot for backend functionality, HTML/CSS/JavaScript 
 ## My Contributions
 
 - Developed application functionality for guest bookings and admin room management using Java and Spring Boot.
-- Built frontend pages using HTML, CSS/SCSS, and JavaScript.
-- Implemented room management operations, including creating, updating, and deleting room records.
+- Built frontend pages using HTML, CSS and JavaScript.
+- Implemented room management operations, including creating, updating and deleting room records.
 
 ## What I Learned
 
