@@ -28,7 +28,6 @@ The application uses Spring Boot for backend functionality, HTML/CSS/JavaScript 
 | Area | Technologies |
 | --- | --- |
 | Backend | Java, Spring Boot |
-| API | REST APIs |
 | Frontend | HTML, CSS, JavaScript |
 | Database | H2 Database |
 | Build Tool | Maven |
